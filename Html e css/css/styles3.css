@@ -1,12 +1,20 @@
+/* Este é o primeiro comentário*/
 h1 {
     color: red;
     font-size: 60px;
 }
 
+/* Este é o primeiro paraágrafo da página */
 .paragrafo {
     color: green;
     background-color: #000;
 }
+/*
+um comentario
+com
+várias
+linhas
+*/
 
 #segundo-titulo {
     color: purple;
@@ -19,4 +27,5 @@ p {
 .box .paragrafo-box {
     color: red;
 }
+
 
