@@ -1,0 +1,20 @@
+#primeiro-titulo {
+    height: 200px;
+    width: 500px;
+    border: 1px solid blue;
+    font-family: Arial;
+    text-align: right;
+    text-decoration: line-through;
+}
+
+#background  h2 {
+    font-family: Georgia;
+    font-size: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#segundo-titulo {
+    font-family: Courier;
+    letter-spacing: 2px;
+}
