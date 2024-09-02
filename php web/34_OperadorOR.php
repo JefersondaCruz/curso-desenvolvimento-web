@@ -28,6 +28,6 @@
         echo "A operação 6 é verdadeira \n";
     }
 
-    if (($a > $b || $d > $c) || $c < $d ){
+    if (($a > $b && $d < $c) || $c < $d ){
         echo "A operação 7 é verdadeira \n";
     }
