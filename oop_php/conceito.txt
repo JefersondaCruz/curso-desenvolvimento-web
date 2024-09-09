@@ -1,0 +1,22 @@
+toda classe tem um bloco de codigo associado, dentro desse corpo geralmente tem ATRIBUTOS ou/e COMPORTAMENTOS
+exemplo televisao, atributo: dimensões , peso, modelo, funcionalidades
+COMPORTAMENTOS ; ligar, desligar, trocar de canal, mudo,
+ATRIBUTOS ==> dados
+COMPORTAMENTOS == > Métodos(funções)
+
+classe estrutura que vai definir seus objetos personalizados dentro, class define os tipos que nao tem por padrao 
+
+classes estrutura de dados personalizados
+
+classe define um novo tipo personalizado (Diferente de int, float, boolean);
+
+classe vs objetos
+
+class pode criar n objetos quiser, e ocmo se fosse um molde de massinha de modelar aonde podemos aplicar em qualquer massinha entao so precisamos criar 1 class(molde), e poderiamos utilizar em diversas massinha de forma geralmente
+
+objetos seria algo mais especifico
+
+** MEMBROS DE UMA CLASS **
+
+tudo aquilo que pertence a uma classe
+
