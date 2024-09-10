@@ -1,0 +1,22 @@
+encapsulamento :
+encapsula os detalhes interno de um objto e expõe apenas uma interface pública, proteger o estado interno do objeto
+public, private: ninguem fora da class tem acesso e protected: visivel dentro da classe pai porem transmitivel por herançaa tmbm.
+
+
+
+
+Herança: Permite que uma classe (filha) herde atributos e métodos de outra classe (pai), promovendo reutilização de código e facilitando a manutenção.
+re-uso de códico melhor que ctrl-v e ctrl-c
+super class = classe pai/mais generica
+subclase = +especifica
+
+
+
+
+Polimorfismo: Permite que diferentes objetos sejam tratados de forma uniforme, mesmo que tenham implementações distintas. Isso é possível através de métodos ou interfaces comuns.
+
+
+
+
+
+Abstração: Foca em representar os elementos essenciais de um objeto, ignorando detalhes complexos. Permite simplificar o desenvolvimento ao lidar apenas com as características e comportamentos relevantes.
