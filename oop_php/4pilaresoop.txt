@@ -14,6 +14,7 @@ subclase = +especifica
 
 
 Polimorfismo: Permite que diferentes objetos sejam tratados de forma uniforme, mesmo que tenham implementações distintas. Isso é possível através de métodos ou interfaces comuns.
+estático e dinamico.
 
 
 

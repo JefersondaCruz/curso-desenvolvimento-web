@@ -1,6 +1,6 @@
 <?php
 
-    class Pessoa {
+    class Pessoat {
         public $nome;
         public $idade;
 
@@ -23,11 +23,11 @@
      // $pessoa = new Pessoa(); // problema, precisa passar os valores entre aspas
     
 
-    $pessoaA = new Pessoa("Rebeca Maria", 40);
+    $pessoaA = new Pessoat("Rebeca Maria", 40);
     $pessoaA->apresentar();
     unset($pessoaA);
 
-    $pessoaB = new Pessoa("Joao silva", 60);
+    $pessoaB = new Pessoat("Joao silva", 60);
     $pessoaB->apresentar();
     $pessoaB = null;
 
