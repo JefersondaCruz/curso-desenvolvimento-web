@@ -1,6 +1,6 @@
 <?php 
 
-    class Pessoa {
+    class Pessoa2 {
 
         public $Nome_Pessoa;
         public $idade;
@@ -34,7 +34,7 @@
 
     }
 
-        $pessoa1 = new Pessoa();
+        $pessoa1 = new Pessoa2();
         $pessoa1->Nome_Pessoa = readline("Digite o nome da pessoa: ");
         $pessoa1->dia_nascimento = readline("Digite o seu dia de nascimento: ");
         $pessoa1->mes_nascimento = readline("Digite o seu mes de nascimento: ");
